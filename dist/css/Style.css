@@ -1,0 +1,14 @@
+.box{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+
+}
+.box2{
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: brown;
+
+}
